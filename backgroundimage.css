@@ -1,0 +1,12 @@
+.hi
+{
+	height: 600px;
+	width: 600px;
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url('images/travel.jpeg');
+	font-size: 35px;
+	font-family: cursive;
+}
+
